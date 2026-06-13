@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Cadeia de Valor - Sistema ESO" id="JjW671ypNhiHrHkSORf0">
+    <mxGraphModel dx="1102" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#ffffff;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cadeia de Valor - Sistema ESO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="240" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-2" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#1a1a1a;strokeColor=#4d4d4d;fontColor=#a0a0a0;fontSize=12;startSize=30;rounded=1;" value="ATIVIDADES DE SUPORTE" vertex="1">
+          <mxGeometry height="220" width="660" x="40" y="80" as="geometry">
+            <mxRectangle height="180" width="40" x="40" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;align=left;spacingLeft=10;" value="Infraestrutura: Finanças, Faturamento Recorrente SaaS, Jurídico" vertex="1">
+          <mxGeometry height="40" width="590" x="90" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;align=left;spacingLeft=10;" value="Gestão de RH: Treinamento de suporte técnico, consultores em SST" vertex="1">
+          <mxGeometry height="40" width="590" x="90" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#5bc0de;fontColor=#ffffff;align=left;spacingLeft=10;strokeWidth=2;" value="Desenvolvimento de Tech: APIs REST, Integração eSocial, Segurança Cloud AWS" vertex="1">
+          <mxGeometry height="40" width="590" x="90" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;align=left;spacingLeft=10;" value="Aquisição: Contratos com clínicas parceiras, laboratórios e fornecedores" vertex="1">
+          <mxGeometry height="40" width="590" x="90" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-7" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#1a1a1a;strokeColor=#4d4d4d;fontColor=#a0a0a0;fontSize=12;startSize=30;rounded=1;" value="ATIVIDADES PRIMÁRIAS" vertex="1">
+          <mxGeometry height="160" width="660" x="40" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;" value="Logística Interna: Captura de dados SST, Fichas de funcionários" vertex="1">
+          <mxGeometry height="120" width="100" x="90" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#d9534f;fontColor=#ffffff;strokeWidth=2;" value="Operações: Geração de PGR/PCMSO, Validação do XML eSocial" vertex="1">
+          <mxGeometry height="120" width="110" x="200" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;" value="Logística Externa: Transmissão eSocial, Certificados A1/A3" vertex="1">
+          <mxGeometry height="120" width="110" x="320" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;" value="Marketing/Vendas: Inbound Marketing SST, Trial gratuito (SaaS)" vertex="1">
+          <mxGeometry height="120" width="110" x="440" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;" value="Serviços: Suporte Ocupacional, Helpdesk via chat" vertex="1">
+          <mxGeometry height="120" width="120" x="560" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRFZ2TcCw9Ce7sTBfqS-14" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);fontColor=light-dark(#ffffff, #ededed);" value="MARGEM" vertex="1">
+          <mxGeometry height="350" width="100" x="690" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
