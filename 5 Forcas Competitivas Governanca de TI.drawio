@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Cinco Forcas de Porter - Sistema ESO" id="CSu2KKnjlIz38dlBxm-R">
+    <mxGraphModel dx="1102" dy="682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="494BJoJfFCORkKo0hjQz-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=light-dark(#000000, #121212);" value="&lt;b&gt;5 Forcas Competitivas - Sistema ESO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="245" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=none;fontColor=#ffffff;verticalAlign=top;spacingTop=10;strokeWidth=2;" value="&lt;b&gt;Rivalidade entre Concorrentes&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Outros softwares dedicados a SST.&lt;br/&gt;• &lt;b&gt;Mitigação TI:&lt;/b&gt; Estabilidade e alta disponibilidade operacional (SLA 99.9% com DevOps AWS)." vertex="1">
+          <mxGeometry height="120" width="260" x="270" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;verticalAlign=top;spacingTop=10;" value="&lt;b&gt;Ameaça de Novos Entrantes&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Startups SaaS recém-criadas.&lt;br/&gt;• &lt;b&gt;Mitigação TI:&lt;/b&gt; Barreira de complexidade regulatória do eSocial e rede de clínicas integradas." vertex="1">
+          <mxGeometry height="120" width="260" x="270" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;verticalAlign=top;spacingTop=10;" value="&lt;b&gt;Ameaça de Produtos Substitutos&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Planilhas de Excel e documentos Word manuais.&lt;br/&gt;• &lt;b&gt;Mitigação TI:&lt;/b&gt; Transmissão automática XML eSocial, inviável em sistemas manuais." vertex="1">
+          <mxGeometry height="120" width="260" x="270" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;verticalAlign=top;spacingTop=10;" value="&lt;b&gt;Poder de Barganha dos Fornecedores&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Médicos do trabalho e engenheiros.&lt;br/&gt;• &lt;b&gt;Mitigação TI:&lt;/b&gt; Plataforma facilita a assinatura digital e reduz tempo administrativo do médico." vertex="1">
+          <mxGeometry height="120" width="220" x="20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d2d2d;strokeColor=#4d4d4d;fontColor=#ffffff;verticalAlign=top;spacingTop=10;" value="&lt;b&gt;Poder de Barganha dos Clientes&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Clínicas e assessorias de SST.&lt;br/&gt;• &lt;b&gt;Mitigação TI:&lt;/b&gt; Portal de autoatendimento para as empresas contratantes de SST, gerando valor agregado." vertex="1">
+          <mxGeometry height="120" width="230" x="560" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a1a;strokeColor=none;fontColor=#5bc0de;verticalAlign=top;spacingTop=10;strokeWidth=2;" value="&lt;b&gt;ESCUDO DE COMPLIANCE&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Adequação estrita à &lt;b&gt;LGPD&lt;/b&gt; (dados médicos sensíveis).&lt;br/&gt;• Padrão ISO 27001.&lt;br/&gt;• Validação de certificado digital A1/A3." vertex="1">
+          <mxGeometry height="120" width="230" x="560" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-8" edge="1" parent="1" source="494BJoJfFCORkKo0hjQz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#ffffff;strokeColor=#ffffff;" target="494BJoJfFCORkKo0hjQz-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-9" edge="1" parent="1" source="494BJoJfFCORkKo0hjQz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#ffffff;strokeColor=#ffffff;" target="494BJoJfFCORkKo0hjQz-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#ffffff;strokeColor=#ffffff;" target="494BJoJfFCORkKo0hjQz-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-11" edge="1" parent="1" source="494BJoJfFCORkKo0hjQz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#ffffff;strokeColor=#ffffff;" target="494BJoJfFCORkKo0hjQz-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="494BJoJfFCORkKo0hjQz-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000, #121212);" value="&lt;span style=&quot;&quot;&gt;Migração de Ameaças via Governança e Compliance no Sistema ESO&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="570" x="120" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
