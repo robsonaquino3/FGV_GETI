@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Estrategias Genericas - Sistema ESO" id="jij5iP2BGrOJ5ABmcV0-">
+    <mxGraphModel dx="1102" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#000000,#000000);fontSize=16;fontColor=#ffffff;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;Estratégias Competitivas Genéricas - Sistema ESO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="660" x="70" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#000000,#000000);rotation=-90;fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ALVO ESTRATÉGICO" vertex="1">
+          <mxGeometry height="30" width="200.25" x="-59.62" y="348.13" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#000000,#000000);fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="VANTAGEM COMPETITIVA" vertex="1">
+          <mxGeometry height="30" width="320" x="260" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-4" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#000000,#000000);" value="CUSTO MAIS BAIXO" vertex="1">
+          <mxGeometry height="30" width="300" x="100" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-5" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#000000,#000000);" value="DIFERENCIAÇÃO" vertex="1">
+          <mxGeometry height="30" width="310" x="420" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-6" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#000000,#000000);rotation=-90;" value="ALVO AMPLO (Mercado Geral)" vertex="1">
+          <mxGeometry height="25" width="240" x="-37.5" y="197.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-7" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#000000,#000000);rotation=-90;" value="ALVO ESTREITO (Nicho de Mercado)" vertex="1">
+          <mxGeometry height="25" width="260" x="-47.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#4d4d4d;fontColor=#FFFFFF;verticalAlign=top;spacingTop=10;" value="&lt;b&gt;LIDERANÇA EM CUSTO&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Não se aplica ao Sistema ESO de forma ampla, pois o foco está na especialização ocupacional (Nicho)." vertex="1">
+          <mxGeometry height="210" width="300" x="110" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#4d4d4d;fontColor=#FFFFFF;verticalAlign=top;spacingTop=10;" value="&lt;b&gt;DIFERENCIAÇÃO&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Não se aplica de forma genérica a todos os tipos de softwares corporativos, apenas ao nicho de SST." vertex="1">
+          <mxGeometry height="210" width="300" x="430" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=none;fontColor=#ffffff;verticalAlign=top;spacingTop=10;strokeWidth=2;" value="&lt;b&gt;FOCO EM CUSTO (Processos)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Redução de custos operacionais para clínicas de SST via automação.&lt;br/&gt;• Geração XML do eSocial em segundos.&lt;br/&gt;• Eliminação de retrabalho e digitação manual." vertex="1">
+          <mxGeometry height="240" width="300" x="110" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=none;fontColor=#ffffff;verticalAlign=top;spacingTop=10;strokeWidth=2;" value="&lt;b&gt;FOCO EM DIFERENCIAÇÃO (Experiência)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Proposta única de valor voltada exclusivamente ao nicho de Medicina Ocupacional.&lt;br/&gt;• Telemedicina integrada aos prontuários.&lt;br/&gt;• Assinatura digital eletrônica de documentos legais (PGR/PCMSO)." vertex="1">
+          <mxGeometry height="240" width="300" x="430" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

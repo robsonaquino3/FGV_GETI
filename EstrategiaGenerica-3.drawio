@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Estrategias Genericas - Processo de Negocio - Sistema ESO" id="jij5iP2BGrOJ5ABmcV0-">
+    <mxGraphModel dx="1102" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);fontSize=16;fontColor=#ffffff;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;Estratégias Genéricas de Porter - Processo de Negócio - Sistema ESO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="630" x="100" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);rotation=-90;fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ALVO ESTRATÉGICO" vertex="1">
+          <mxGeometry height="30" width="300.25" x="-100" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ENFOQUE" vertex="1">
+          <mxGeometry height="30" width="380" x="220" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-4" parent="1" style="text;html=1;align=center;fontColor=#FFFFFF;fillColor=light-dark(#1B3A6B,#000000);verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="LIDERANÇA EM CUSTO" vertex="1">
+          <mxGeometry height="30" width="230" x="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-5" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#1B3A6B,#000000);" value="DIFERENCIAÇÃO" vertex="1">
+          <mxGeometry height="30" width="230" x="460" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-6" parent="1" style="text;html=1;align=center;fontColor=#003366;fillColor=light-dark(#FFFFFF,#000000);rotation=-90;" value="Alvo Amplo (Mercado Geral)" vertex="1">
+          <mxGeometry height="25" width="181.25" y="210.63" as="geometry" />
+        </mxCell>
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8EE;strokeColor=#d79b00;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Motor de regras das NRs gera automaticamente PGR, PCMSO, LTCAT e ASO a partir do mapeamento de riscos&lt;/li&gt;&lt;li&gt;Transmissão automática dos eventos eSocial SST (S-2210, S-2220, S-2240)&lt;/li&gt;&lt;li&gt;Importação de cargos, riscos e exames com 1 clique (sem planilhas)&lt;/li&gt;&lt;li&gt;Elimina retrabalho e erros manuais — diferencial frente a planilhas e concorrentes&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="240" width="295" x="425" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ipM_3hFXSwGQaJ-82i8h-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8EE;strokeColor=#d79b00;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;b&gt;Unificação ASO + Laudo NR-9 + eSocial:&lt;/b&gt;&amp;nbsp;o preenchimento da consulta médica gera automaticamente o ASO e compila o arquivo XML do evento S-2220, eliminando a emissão separada do laudo de risco (NR-9) em Word&lt;/li&gt;&lt;li&gt;Transmissão ao governo via webservice em 1 clique&lt;/li&gt;&lt;li&gt;Elimina retrabalho entre sistemas distintos (Word + portal eSocial)&lt;/li&gt;&lt;li&gt;Reduz o tempo administrativo e o custo operacional por funcionário atendido&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="230" width="300" x="105" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ipM_3hFXSwGQaJ-82i8h-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#1D170F);strokeColor=#0D6E4F;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Processos 100% verticalizados no nicho SST — mapeamento de riscos por NR específica&lt;/li&gt;&lt;li&gt;Fluxo dedicado de exames periódicos, EPIs/EPCs e Ordem de Serviço (NR-1)&lt;/li&gt;&lt;li&gt;Biblioteca exclusiva de modelos de documentos regulatórios SST&lt;/li&gt;&lt;li&gt;Nenhum processo genérico de ERP — tudo desenhado para medicina/segurança do trabalho&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="130" width="615" x="106" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ipM_3hFXSwGQaJ-82i8h-3" parent="1" style="text;html=1;align=center;fontColor=#003366;fillColor=light-dark(#FFFFFF,#000000);rotation=-90;" value="S&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;egmento Específico&lt;/span&gt;" vertex="1">
+          <mxGeometry height="25" width="131.26" x="25" y="375.01" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

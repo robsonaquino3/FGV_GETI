@@ -1,41 +1,76 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Estrategias Genericas - Sistema ESO" id="jij5iP2BGrOJ5ABmcV0-">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Estrategias Genericas - Processo de Negocio - Sistema ESO" id="jij5iP2BGrOJ5ABmcV0-">
     <mxGraphModel dx="1102" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#000000,#000000);fontSize=16;fontColor=#ffffff;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;Estratégias Competitivas Genéricas - Sistema ESO&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="660" x="70" y="25" as="geometry" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);fontSize=16;fontColor=#ffffff;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;Estratégias Genéricas de Porter - Processo de Negócio - Sistema ESO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="630" x="99" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#000000,#000000);rotation=-90;fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ALVO ESTRATÉGICO" vertex="1">
-          <mxGeometry height="30" width="200.25" x="-59.62" y="348.13" as="geometry" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);rotation=-90;fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ALVO ESTRATÉGICO" vertex="1">
+          <mxGeometry height="30" width="300.25" x="-100" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#000000,#000000);fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="VANTAGEM COMPETITIVA" vertex="1">
-          <mxGeometry height="30" width="320" x="260" y="630" as="geometry" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ENFOQUE" vertex="1">
+          <mxGeometry height="30" width="380" x="224" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-4" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#000000,#000000);" value="CUSTO MAIS BAIXO" vertex="1">
-          <mxGeometry height="30" width="300" x="100" y="70" as="geometry" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-4" parent="1" style="text;html=1;align=center;fontColor=#FFFFFF;fillColor=light-dark(#1B3A6B,#000000);verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="LIDERANÇA EM CUSTO" vertex="1">
+          <mxGeometry height="30" width="230" x="140" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-5" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#000000,#000000);" value="DIFERENCIAÇÃO" vertex="1">
-          <mxGeometry height="30" width="310" x="420" y="70" as="geometry" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-5" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#1B3A6B,#000000);" value="DIFERENCIAÇÃO" vertex="1">
+          <mxGeometry height="30" width="230" x="460" y="85" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-6" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#000000,#000000);rotation=-90;" value="ALVO AMPLO (Mercado Geral)" vertex="1">
-          <mxGeometry height="25" width="240" x="-37.5" y="197.5" as="geometry" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-6" parent="1" style="text;html=1;align=center;fontColor=#003366;fillColor=light-dark(#FFFFFF,#000000);rotation=-90;" value="Alvo Amplo (Mercado Geral)" vertex="1">
+          <mxGeometry height="25" width="181.25" y="210.63" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-7" parent="1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#000000,#000000);rotation=-90;" value="ALVO ESTREITO (Nicho de Mercado)" vertex="1">
-          <mxGeometry height="25" width="260" x="-47.5" y="470" as="geometry" />
+        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8EE;strokeColor=#d79b00;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Motor de regras das NRs gera automaticamente PGR, PCMSO, LTCAT e ASO a partir do mapeamento de riscos&lt;/li&gt;&lt;li&gt;Transmissão automática dos eventos eSocial SST (S-2210, S-2220, S-2240)&lt;/li&gt;&lt;li&gt;Importação de cargos, riscos e exames com 1 clique (sem planilhas)&lt;/li&gt;&lt;li&gt;Elimina retrabalho e erros manuais — diferencial frente a planilhas e concorrentes&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="240" width="295" x="425" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#4d4d4d;fontColor=#FFFFFF;verticalAlign=top;spacingTop=10;" value="&lt;b&gt;LIDERANÇA EM CUSTO&lt;/b&gt;&lt;br&gt;&lt;br&gt;• Não se aplica ao Sistema ESO de forma ampla, pois o foco está na especialização ocupacional (Nicho)." vertex="1">
-          <mxGeometry height="210" width="300" x="110" y="120" as="geometry" />
+        <mxCell id="ipM_3hFXSwGQaJ-82i8h-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8EE;strokeColor=#d79b00;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;b&gt;Unificação ASO + Laudo NR-9 + eSocial:&lt;/b&gt;&amp;nbsp;o preenchimento da consulta médica gera automaticamente o ASO e compila o arquivo XML do evento S-2220, eliminando a emissão separada do laudo de risco (NR-9) em Word&lt;/li&gt;&lt;li&gt;Transmissão ao governo via webservice em 1 clique&lt;/li&gt;&lt;li&gt;Elimina retrabalho entre sistemas distintos (Word + portal eSocial)&lt;/li&gt;&lt;li&gt;Reduz o tempo administrativo e o custo operacional por funcionário atendido&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="230" width="300" x="105" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=#4d4d4d;fontColor=#FFFFFF;verticalAlign=top;spacingTop=10;" value="&lt;b&gt;DIFERENCIAÇÃO&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Não se aplica de forma genérica a todos os tipos de softwares corporativos, apenas ao nicho de SST." vertex="1">
-          <mxGeometry height="210" width="300" x="430" y="120" as="geometry" />
+        <mxCell id="ipM_3hFXSwGQaJ-82i8h-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#1D170F);strokeColor=#0D6E4F;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Processos 100% verticalizados no nicho SST — mapeamento de riscos por NR específica&lt;/li&gt;&lt;li&gt;Fluxo dedicado de exames periódicos, EPIs/EPCs e Ordem de Serviço (NR-1)&lt;/li&gt;&lt;li&gt;Biblioteca exclusiva de modelos de documentos regulatórios SST&lt;/li&gt;&lt;li&gt;Nenhum processo genérico de ERP — tudo desenhado para medicina/segurança do trabalho&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="110" width="615" x="106" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=none;fontColor=#ffffff;verticalAlign=top;spacingTop=10;strokeWidth=2;" value="&lt;b&gt;FOCO EM CUSTO (Processos)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Redução de custos operacionais para clínicas de SST via automação.&lt;br/&gt;• Geração XML do eSocial em segundos.&lt;br/&gt;• Eliminação de retrabalho e digitação manual." vertex="1">
-          <mxGeometry height="240" width="300" x="110" y="370" as="geometry" />
+        <mxCell id="ipM_3hFXSwGQaJ-82i8h-3" parent="1" style="text;html=1;align=center;fontColor=#003366;fillColor=light-dark(#FFFFFF,#000000);rotation=-90;" value="S&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;egmento Específico&lt;/span&gt;" vertex="1">
+          <mxGeometry height="25" width="131.26" x="25" y="375.01" as="geometry" />
         </mxCell>
-        <mxCell id="0dvPvXTQRvxsFO0xUOzJ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=none;fontColor=#ffffff;verticalAlign=top;spacingTop=10;strokeWidth=2;" value="&lt;b&gt;FOCO EM DIFERENCIAÇÃO (Experiência)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;• Proposta única de valor voltada exclusivamente ao nicho de Medicina Ocupacional.&lt;br/&gt;• Telemedicina integrada aos prontuários.&lt;br/&gt;• Assinatura digital eletrônica de documentos legais (PGR/PCMSO)." vertex="1">
-          <mxGeometry height="240" width="300" x="430" y="370" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Estrategias Genericas - Experiencia do Cliente - Sistema ESO" id="hsljU96gnOCO8NUlq1vq">
+    <mxGraphModel dx="1102" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-0" />
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-1" parent="6kAsotT3T7_MdOOW3TAQ-0" />
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-2" parent="6kAsotT3T7_MdOOW3TAQ-1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);fontSize=16;fontColor=#ffffff;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;Estratégias Genéricas de Porter - Experiência do Cliente CX - Sistema ESO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="590" x="119" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-3" parent="6kAsotT3T7_MdOOW3TAQ-1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);rotation=-90;fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ALVO ESTRATÉGICO" vertex="1">
+          <mxGeometry height="30" width="300.25" x="-100" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-4" parent="6kAsotT3T7_MdOOW3TAQ-1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=light-dark(#1B3A6B,#000000);fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ENFOQUE" vertex="1">
+          <mxGeometry height="30" width="380" x="220" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-5" parent="6kAsotT3T7_MdOOW3TAQ-1" style="text;html=1;align=center;fontColor=#FFFFFF;fillColor=light-dark(#1B3A6B,#000000);verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="LIDERANÇA EM CUSTO" vertex="1">
+          <mxGeometry height="30" width="230" x="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-6" parent="6kAsotT3T7_MdOOW3TAQ-1" style="text;html=1;align=center;fontColor=#ffffff;fillColor=light-dark(#1B3A6B,#000000);" value="DIFERENCIAÇÃO" vertex="1">
+          <mxGeometry height="30" width="230" x="460" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-7" parent="6kAsotT3T7_MdOOW3TAQ-1" style="text;html=1;align=center;fontColor=#003366;fillColor=light-dark(#FFFFFF,#000000);rotation=-90;" value="Alvo Amplo (Mercado Geral)" vertex="1">
+          <mxGeometry height="25" width="181.25" y="210.63" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-8" parent="6kAsotT3T7_MdOOW3TAQ-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8EE;strokeColor=#d79b00;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;b&gt;Assinatura Eletrônica Digital:&lt;/b&gt;&amp;nbsp;médicos e engenheiros assinam documentos ocupacionais com validade legal na própria plataforma, eliminando impressões físicas&lt;/li&gt;&lt;li&gt;&lt;b&gt;Telemedicina Integrada:&lt;/b&gt;&amp;nbsp;exames periódicos e consultas médicas ocupacionais realizados remotamente&lt;/li&gt;&lt;li&gt;&lt;b&gt;Portal do Cliente Final:&lt;/b&gt;&amp;nbsp;área restrita para empresas-clientes baixarem laudos e acompanharem vencimentos de exames de seus funcionários&lt;/li&gt;&lt;li&gt;Agrega valor e transparência ao relacionamento comercial entre clínica e empresa-cliente&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="240" width="295" x="425" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-9" parent="6kAsotT3T7_MdOOW3TAQ-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8EE;strokeColor=#d79b00;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Trial gratuito reduz risco percebido na decisão de compra&lt;/li&gt;&lt;li&gt;Planos acessíveis para autônomos e técnicos (menos de 300 vidas)&lt;/li&gt;&lt;li&gt;Self-service via dashboard reduz dependência de suporte humano&lt;/li&gt;&lt;li&gt;Sem custos de instalação, licença local ou hardware dedicado&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="230" width="300" x="105" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-10" parent="6kAsotT3T7_MdOOW3TAQ-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#1D170F);strokeColor=#0D6E4F;verticalAlign=top;spacingTop=10;" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Interface e terminologia adaptadas à linguagem de médicos, técnicos e engenheiros de SST&lt;/li&gt;&lt;li&gt;Suporte especializado em NRs e eSocial — não um helpdesk genérico&lt;/li&gt;&lt;li&gt;Segmentação de planos por perfil: clínica, assessoria ou SESMT interno&lt;/li&gt;&lt;li&gt;Conteúdo educativo (blog) focado 100% em SST e eSocial&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="110" width="615" x="106" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="6kAsotT3T7_MdOOW3TAQ-11" parent="6kAsotT3T7_MdOOW3TAQ-1" style="text;html=1;align=center;fontColor=#003366;fillColor=light-dark(#FFFFFF,#000000);rotation=-90;" value="S&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;egmento Específico&lt;/span&gt;" vertex="1">
+          <mxGeometry height="25" width="131.26" x="25" y="375.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
